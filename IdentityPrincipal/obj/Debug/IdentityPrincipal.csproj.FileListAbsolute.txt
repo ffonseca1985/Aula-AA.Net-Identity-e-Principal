@@ -1,0 +1,6 @@
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\bin\Debug\IdentityPrincipal.exe.config
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\obj\Debug\IdentityPrincipal.csprojResolveAssemblyReference.cache
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\bin\Debug\IdentityPrincipal.exe
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\bin\Debug\IdentityPrincipal.pdb
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\obj\Debug\IdentityPrincipal.exe
+D:\autenticacaoAutorizacaoProduto\AA.Identity e Principal\IdentityPrincipal\IdentityPrincipal\obj\Debug\IdentityPrincipal.pdb
